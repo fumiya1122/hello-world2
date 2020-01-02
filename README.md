@@ -1,2 +1,3 @@
 # hello-world2
-setumei-hello
+setumei-hellow
+setumei-hellow2
